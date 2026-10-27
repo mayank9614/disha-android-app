@@ -1,19 +1,19 @@
 plugins {
     id("com.android.application")
-    id("org.jetbrains.kotlin.android")
     id("org.jetbrains.kotlin.plugin.compose")
     id("org.jetbrains.kotlin.plugin.serialization")
 }
 
 android {
     namespace = "com.disha.career"
-    compileSdk = 35
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.disha.career"
         // Android 7.0+: covers almost every budget phone still in use.
         minSdk = 24
-        targetSdk = 35
+        // Play requires new apps to target a recent API level; raise this each August.
+        targetSdk = 36
         versionCode = 1
         versionName = "0.1.0"
     }
@@ -32,10 +32,6 @@ android {
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
-    }
-
-    kotlinOptions {
-        jvmTarget = "17"
     }
 
     buildFeatures {
@@ -58,7 +54,8 @@ dependencies {
     implementation("androidx.lifecycle:lifecycle-runtime-compose:2.8.7")
 
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.3")
-    implementation("com.android.billingclient:billing-ktx:7.1.1")
+    // Play requires Billing Library 8+ for new apps and updates.
+    implementation("com.android.billingclient:billing-ktx:9.1.0")
 
     testImplementation("junit:junit:4.13.2")
 }
