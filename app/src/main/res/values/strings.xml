@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- In-app text lives in ui/L10n.kt so students can switch language instantly. -->
+    <string name="app_name">Disha</string>
+</resources>

@@ -1,0 +1,357 @@
+[
+  {
+    "id": "solar_ev_tech",
+    "title": {"en": "Solar & EV Technician", "hi": "सोलर और ईवी टेक्नीशियन"},
+    "summary": {"en": "Install and repair rooftop solar panels, inverters and electric vehicles. Demand is growing fast in towns and villages.", "hi": "छत पर सोलर पैनल, इन्वर्टर और इलेक्ट्रिक गाड़ियों को लगाना और ठीक करना। कस्बों और गाँवों में इसकी माँग तेज़ी से बढ़ रही है।"},
+    "riasec": {"R": 3, "I": 1, "C": 1},
+    "aptitude": {"NUM": 1, "LOGIC": 1},
+    "stages": ["AFTER_10", "AFTER_12"],
+    "cost": "LOW",
+    "aiProof": 88,
+    "salary": {"en": "Approx. ₹12,000–25,000/month to start; more with your own service business.", "hi": "शुरुआत में लगभग ₹12,000–25,000 प्रति माह; अपना सर्विस काम शुरू करने पर ज़्यादा।"},
+    "roadmap": [
+      {"en": "After 10th: join a 2-year ITI Electrician course at a government ITI near you (very low fees).", "hi": "10वीं के बाद: अपने पास के सरकारी ITI में 2 साल का इलेक्ट्रीशियन कोर्स करें (फ़ीस बहुत कम)।"},
+      {"en": "Or after 10th/12th: a 3-year polytechnic diploma in Electrical Engineering.", "hi": "या 10वीं/12वीं के बाद: इलेक्ट्रिकल इंजीनियरिंग में 3 साल का पॉलिटेक्निक डिप्लोमा।"},
+      {"en": "Add a short solar PV installer or EV servicing course (Skill India / PMKVY).", "hi": "साथ में सोलर PV इंस्टॉलर या EV सर्विसिंग का छोटा कोर्स करें (स्किल इंडिया / PMKVY)।"},
+      {"en": "Work as an apprentice with a local solar dealer, then start taking your own jobs.", "hi": "किसी लोकल सोलर डीलर के साथ अप्रेंटिस बनें, फिर अपने काम लेना शुरू करें।"}
+    ],
+    "exams": [
+      {"en": "ITI admission (state merit list / counselling)", "hi": "ITI प्रवेश (राज्य मेरिट लिस्ट / काउंसलिंग)"},
+      {"en": "Polytechnic: JEECUP (UP), DCECE (Bihar)", "hi": "पॉलिटेक्निक: JEECUP (उत्तर प्रदेश), DCECE (बिहार)"}
+    ],
+    "skills": [
+      {"en": "Wiring and safety", "hi": "वायरिंग और सुरक्षा"},
+      {"en": "Reading meters and circuit diagrams", "hi": "मीटर और सर्किट डायग्राम पढ़ना"},
+      {"en": "Talking to customers", "hi": "ग्राहकों से बात करना"}
+    ],
+    "aiNote": {"en": "Hands-on field work. AI can help with design, but someone still has to climb the roof and fix it.", "hi": "यह मैदानी काम है। AI डिज़ाइन में मदद कर सकता है, लेकिन छत पर चढ़कर काम तो इंसान को ही करना होगा।"}
+  },
+  {
+    "id": "mobile_repair",
+    "title": {"en": "Mobile & Electronics Repair", "hi": "मोबाइल और इलेक्ट्रॉनिक्स रिपेयर"},
+    "summary": {"en": "Repair smartphones, TVs and home appliances. Every town needs a trusted repair shop.", "hi": "स्मार्टफ़ोन, टीवी और घरेलू उपकरण ठीक करना। हर कस्बे को एक भरोसेमंद रिपेयर दुकान चाहिए।"},
+    "riasec": {"R": 3, "I": 1, "E": 1},
+    "aptitude": {"LOGIC": 1},
+    "stages": ["AFTER_10", "AFTER_12"],
+    "cost": "LOW",
+    "aiProof": 82,
+    "salary": {"en": "Approx. ₹10,000–25,000/month in a shop; your own shop can earn more.", "hi": "दुकान पर लगभग ₹10,000–25,000 प्रति माह; अपनी दुकान से ज़्यादा कमाई हो सकती है।"},
+    "roadmap": [
+      {"en": "Join a 3–6 month mobile repair course (PMKVY centres or ITI short courses).", "hi": "3–6 महीने का मोबाइल रिपेयर कोर्स करें (PMKVY केंद्र या ITI शॉर्ट कोर्स)।"},
+      {"en": "Or do ITI Electronics Mechanic (2 years) for a stronger base.", "hi": "या मज़बूत आधार के लिए ITI इलेक्ट्रॉनिक्स मैकेनिक (2 साल) करें।"},
+      {"en": "Work 6–12 months at a busy repair shop to learn real faults.", "hi": "असली ख़राबियाँ सीखने के लिए 6–12 महीने किसी चलती रिपेयर दुकान पर काम करें।"},
+      {"en": "Open your own counter; use WhatsApp and Google Maps to get customers.", "hi": "अपना काउंटर खोलें; ग्राहक पाने के लिए WhatsApp और Google Maps का इस्तेमाल करें।"}
+    ],
+    "exams": [
+      {"en": "No entrance exam for short courses", "hi": "छोटे कोर्स के लिए कोई प्रवेश परीक्षा नहीं"},
+      {"en": "ITI admission (state merit list)", "hi": "ITI प्रवेश (राज्य मेरिट लिस्ट)"}
+    ],
+    "skills": [
+      {"en": "Soldering and chip-level repair", "hi": "सोल्डरिंग और चिप-लेवल रिपेयर"},
+      {"en": "Patience and steady hands", "hi": "धैर्य और सधे हुए हाथ"},
+      {"en": "Honest pricing", "hi": "ईमानदार दाम"}
+    ],
+    "aiNote": {"en": "Phones keep multiplying and breaking. AI can help diagnose faults, but repair is done by hand.", "hi": "फ़ोन बढ़ते जा रहे हैं और ख़राब भी होते हैं। AI ख़राबी पहचानने में मदद कर सकता है, पर रिपेयर हाथ से ही होगी।"}
+  },
+  {
+    "id": "drone_operator",
+    "title": {"en": "Drone Pilot (Agri & Survey)", "hi": "ड्रोन पायलट (खेती और सर्वे)"},
+    "summary": {"en": "Fly drones to spray crops, map land and inspect sites. A new field with government support.", "hi": "फ़सलों पर छिड़काव, ज़मीन की मैपिंग और साइट की जाँच के लिए ड्रोन उड़ाना। सरकारी समर्थन वाला नया क्षेत्र।"},
+    "riasec": {"R": 2, "I": 1, "E": 1},
+    "aptitude": {"LOGIC": 1, "NUM": 1},
+    "stages": ["AFTER_10", "AFTER_12"],
+    "cost": "MEDIUM",
+    "aiProof": 75,
+    "salary": {"en": "Approx. ₹15,000–35,000/month; spraying services are paid per acre.", "hi": "लगभग ₹15,000–35,000 प्रति माह; छिड़काव सेवा में प्रति एकड़ भुगतान मिलता है।"},
+    "roadmap": [
+      {"en": "Finish at least 10th (12th is better).", "hi": "कम से कम 10वीं पास करें (12वीं बेहतर है)।"},
+      {"en": "At 18+, take a DGCA-approved remote pilot course (about 1 week; fees vary, roughly ₹35,000–65,000).", "hi": "18 साल के बाद, DGCA से मान्यता प्राप्त रिमोट पायलट कोर्स करें (लगभग 1 हफ़्ता; फ़ीस अलग-अलग, लगभग ₹35,000–65,000)।"},
+      {"en": "Get your Remote Pilot Certificate and practise agri-spraying.", "hi": "रिमोट पायलट सर्टिफ़िकेट लें और खेती में छिड़काव की प्रैक्टिस करें।"},
+      {"en": "Work with an agri-drone company or FPO, or offer spraying in nearby villages.", "hi": "किसी एग्री-ड्रोन कंपनी या FPO के साथ काम करें, या आसपास के गाँवों में छिड़काव सेवा दें।"}
+    ],
+    "exams": [
+      {"en": "DGCA Remote Pilot Certificate (through an approved training school)", "hi": "DGCA रिमोट पायलट सर्टिफ़िकेट (मान्यता प्राप्त ट्रेनिंग स्कूल के ज़रिए)"}
+    ],
+    "skills": [
+      {"en": "Map reading and weather sense", "hi": "नक्शा पढ़ना और मौसम की समझ"},
+      {"en": "Basic drone maintenance", "hi": "ड्रोन का बेसिक रखरखाव"},
+      {"en": "Working with farmers", "hi": "किसानों से तालमेल"}
+    ],
+    "aiNote": {"en": "Drones get smarter with AI, which creates more work for trained pilots who can operate and maintain them.", "hi": "AI से ड्रोन और स्मार्ट हो रहे हैं, जिससे इन्हें चलाने और सँभालने वाले प्रशिक्षित पायलटों का काम बढ़ेगा।"}
+  },
+  {
+    "id": "nurse",
+    "title": {"en": "Nursing", "hi": "नर्सिंग"},
+    "summary": {"en": "Care for patients in hospitals and health centres. Needed in every district, in India and abroad.", "hi": "अस्पतालों और स्वास्थ्य केंद्रों में मरीज़ों की देखभाल। हर ज़िले में, और देश-विदेश में माँग।"},
+    "riasec": {"S": 3, "I": 1, "C": 1},
+    "aptitude": {"VERB": 1},
+    "stages": ["AFTER_12"],
+    "streams": ["SCIENCE"],
+    "cost": "MEDIUM",
+    "govt": true,
+    "aiProof": 92,
+    "salary": {"en": "Private: approx. ₹15,000–30,000/month to start. Government nursing posts pay much more.", "hi": "प्राइवेट: शुरुआत में लगभग ₹15,000–30,000 प्रति माह। सरकारी नर्सिंग पदों पर इससे काफ़ी ज़्यादा।"},
+    "roadmap": [
+      {"en": "With 12th Science (Biology): apply for B.Sc Nursing (4 years).", "hi": "12वीं साइंस (बायोलॉजी) के साथ: B.Sc नर्सिंग (4 साल) के लिए आवेदन करें।"},
+      {"en": "Or choose GNM (3 years), offered at many government and private colleges.", "hi": "या GNM (3 साल) चुनें, जो कई सरकारी और प्राइवेट कॉलेजों में होता है।"},
+      {"en": "Register with your State Nursing Council after the course.", "hi": "कोर्स के बाद अपनी राज्य नर्सिंग काउंसिल में रजिस्ट्रेशन कराएँ।"},
+      {"en": "Apply for government nursing officer posts (AIIMS NORCET, state recruitments).", "hi": "सरकारी नर्सिंग ऑफ़िसर पदों के लिए आवेदन करें (AIIMS NORCET, राज्य भर्तियाँ)।"}
+    ],
+    "exams": [
+      {"en": "UP: ABVMU CNET / Bihar: BCECE nursing", "hi": "उत्तर प्रदेश: ABVMU CNET / बिहार: BCECE नर्सिंग"},
+      {"en": "AIIMS B.Sc Nursing, NEET (some colleges)", "hi": "AIIMS B.Sc नर्सिंग, NEET (कुछ कॉलेज)"},
+      {"en": "Jobs: AIIMS NORCET", "hi": "नौकरी: AIIMS NORCET"}
+    ],
+    "skills": [
+      {"en": "Caring and calm under pressure", "hi": "देखभाल और दबाव में शांत रहना"},
+      {"en": "Basic biology and medicines", "hi": "बेसिक बायोलॉजी और दवाओं की जानकारी"},
+      {"en": "Clear communication", "hi": "साफ़ बातचीत"}
+    ],
+    "aiNote": {"en": "AI can read reports, but patients need human care. One of the safest careers in the AI age.", "hi": "AI रिपोर्ट पढ़ सकता है, लेकिन मरीज़ों को इंसानी देखभाल चाहिए। AI के दौर में सबसे सुरक्षित करियर में से एक।"}
+  },
+  {
+    "id": "teacher",
+    "title": {"en": "School Teacher", "hi": "स्कूल शिक्षक"},
+    "summary": {"en": "Teach children in government or private schools, or run your own coaching.", "hi": "सरकारी या प्राइवेट स्कूल में बच्चों को पढ़ाना, या अपनी कोचिंग चलाना।"},
+    "riasec": {"S": 3, "A": 1, "C": 1},
+    "aptitude": {"VERB": 1},
+    "stages": ["AFTER_12"],
+    "cost": "LOW",
+    "govt": true,
+    "aiProof": 80,
+    "salary": {"en": "Private: approx. ₹8,000–20,000/month. Government teachers earn much more.", "hi": "प्राइवेट: लगभग ₹8,000–20,000 प्रति माह। सरकारी शिक्षकों की कमाई इससे काफ़ी ज़्यादा।"},
+    "roadmap": [
+      {"en": "After 12th: do D.El.Ed (2 years) to teach primary classes.", "hi": "12वीं के बाद: प्राइमरी कक्षाओं को पढ़ाने के लिए D.El.Ed (2 साल) करें।"},
+      {"en": "Or do graduation + B.Ed to teach higher classes.", "hi": "या ऊँची कक्षाओं के लिए ग्रेजुएशन + B.Ed करें।"},
+      {"en": "Clear CTET or your state TET.", "hi": "CTET या अपने राज्य का TET पास करें।"},
+      {"en": "Apply in teacher recruitments; meanwhile give home tuitions to build experience.", "hi": "शिक्षक भर्तियों में आवेदन करें; तब तक ट्यूशन पढ़ाकर अनुभव बनाएँ।"}
+    ],
+    "exams": [
+      {"en": "CTET, UPTET, Bihar STET", "hi": "CTET, UPTET, बिहार STET"},
+      {"en": "Bihar D.El.Ed entrance; BPSC teacher recruitment (TRE)", "hi": "बिहार D.El.Ed प्रवेश परीक्षा; BPSC शिक्षक भर्ती (TRE)"}
+    ],
+    "skills": [
+      {"en": "Explaining things simply", "hi": "आसान भाषा में समझाना"},
+      {"en": "Patience with kids", "hi": "बच्चों के साथ धैर्य"},
+      {"en": "Using phone and AI tools for teaching", "hi": "पढ़ाने में फ़ोन और AI टूल्स का इस्तेमाल"}
+    ],
+    "aiNote": {"en": "AI becomes a teaching helper. Teachers who use it well will be in demand.", "hi": "AI पढ़ाने में सहायक बनेगा। जो शिक्षक इसका अच्छा इस्तेमाल करेंगे, उनकी माँग बढ़ेगी।"}
+  },
+  {
+    "id": "digital_marketer",
+    "title": {"en": "Digital Marketing & Content Creation", "hi": "डिजिटल मार्केटिंग और कंटेंट क्रिएशन"},
+    "summary": {"en": "Help local shops and brands grow online with reels, posts and ads. Can be done from your town.", "hi": "रील, पोस्ट और विज्ञापनों से लोकल दुकानों और ब्रांड्स को ऑनलाइन बढ़ाना। अपने कस्बे से ही किया जा सकता है।"},
+    "riasec": {"A": 2, "E": 2, "C": 1},
+    "aptitude": {"VERB": 1},
+    "stages": ["AFTER_10", "AFTER_12"],
+    "cost": "LOW",
+    "aiProof": 60,
+    "salary": {"en": "Approx. ₹10,000–25,000/month to start; freelancers earn per client.", "hi": "शुरुआत में लगभग ₹10,000–25,000 प्रति माह; फ़्रीलांसर हर क्लाइंट से कमाते हैं।"},
+    "roadmap": [
+      {"en": "Continue studies in any stream; start learning free online (Google, Meta, Skill India courses).", "hi": "किसी भी स्ट्रीम में पढ़ाई जारी रखें; मुफ़्त ऑनलाइन सीखना शुरू करें (Google, Meta, स्किल इंडिया कोर्स)।"},
+      {"en": "Make a page for 2–3 local shops for free to build a portfolio.", "hi": "पोर्टफ़ोलियो बनाने के लिए 2–3 लोकल दुकानों का पेज मुफ़्त में बनाएँ।"},
+      {"en": "Learn AI tools for writing, design and video editing.", "hi": "लिखने, डिज़ाइन और वीडियो एडिटिंग के लिए AI टूल्स सीखें।"},
+      {"en": "Charge a monthly fee per client; aim for 5–10 regular clients.", "hi": "हर क्लाइंट से मासिक फ़ीस लें; 5–10 नियमित क्लाइंट का लक्ष्य रखें।"}
+    ],
+    "exams": [
+      {"en": "No entrance exam; free certificates help", "hi": "कोई प्रवेश परीक्षा नहीं; मुफ़्त सर्टिफ़िकेट मदद करते हैं"}
+    ],
+    "skills": [
+      {"en": "Storytelling in Hindi and English", "hi": "हिंदी और अंग्रेज़ी में कहानी कहना"},
+      {"en": "Basic video editing", "hi": "बेसिक वीडियो एडिटिंग"},
+      {"en": "Understanding what customers want", "hi": "ग्राहक क्या चाहते हैं, यह समझना"}
+    ],
+    "aiNote": {"en": "AI makes content faster, so basic jobs will shrink. Creators who understand local customers and use AI well will win.", "hi": "AI से कंटेंट जल्दी बनता है, इसलिए साधारण काम घटेंगे। जो लोकल ग्राहकों को समझते हैं और AI का अच्छा इस्तेमाल करते हैं, वही आगे बढ़ेंगे।"}
+  },
+  {
+    "id": "software_dev",
+    "title": {"en": "Software Developer", "hi": "सॉफ़्टवेयर डेवलपर"},
+    "summary": {"en": "Build apps and websites, using AI tools to work faster.", "hi": "AI टूल्स की मदद से तेज़ी से ऐप और वेबसाइट बनाना।"},
+    "riasec": {"I": 3, "C": 1, "A": 1},
+    "aptitude": {"LOGIC": 2, "NUM": 1},
+    "stages": ["AFTER_12"],
+    "cost": "MEDIUM",
+    "needsRelocation": true,
+    "aiProof": 65,
+    "salary": {"en": "Approx. ₹20,000–50,000/month to start; grows fast with skill.", "hi": "शुरुआत में लगभग ₹20,000–50,000 प्रति माह; हुनर के साथ तेज़ी से बढ़ता है।"},
+    "roadmap": [
+      {"en": "Science with Maths: B.Tech (through JEE Main or state counselling). Any stream: BCA or B.Sc Computer Science.", "hi": "मैथ्स के साथ साइंस: B.Tech (JEE Main या राज्य काउंसलिंग से)। किसी भी स्ट्रीम से: BCA या B.Sc कंप्यूटर साइंस।"},
+      {"en": "Learn one programming language well (Python or JavaScript) with free courses.", "hi": "मुफ़्त कोर्स से एक प्रोग्रामिंग भाषा (Python या JavaScript) अच्छे से सीखें।"},
+      {"en": "Build 3 real projects, e.g. an app for your school or a local shop.", "hi": "3 असली प्रोजेक्ट बनाएँ, जैसे अपने स्कूल या किसी लोकल दुकान के लिए ऐप।"},
+      {"en": "Apply for internships; many are remote.", "hi": "इंटर्नशिप के लिए आवेदन करें; कई घर से (रिमोट) होती हैं।"}
+    ],
+    "exams": [
+      {"en": "JEE Main, then UPTAC (UP) / UGEAC (Bihar) counselling", "hi": "JEE Main, फिर UPTAC (उत्तर प्रदेश) / UGEAC (बिहार) काउंसलिंग"},
+      {"en": "CUET-UG for BCA / B.Sc at central universities", "hi": "केंद्रीय विश्वविद्यालयों में BCA / B.Sc के लिए CUET-UG"}
+    ],
+    "skills": [
+      {"en": "Logical thinking", "hi": "तार्किक सोच"},
+      {"en": "Enough English to read documentation", "hi": "डॉक्यूमेंटेशन पढ़ने लायक अंग्रेज़ी"},
+      {"en": "Using AI coding assistants", "hi": "AI कोडिंग असिस्टेंट का इस्तेमाल"}
+    ],
+    "aiNote": {"en": "AI writes a lot of code now. Developers who can guide and check AI will be valued; copy-paste jobs will fade.", "hi": "AI अब बहुत सारा कोड लिखता है। जो डेवलपर AI को दिशा दे सकें और उसकी जाँच कर सकें, उनकी क़द्र होगी; सिर्फ़ कॉपी-पेस्ट वाले काम ख़त्म होंगे।"}
+  },
+  {
+    "id": "data_ai_ops",
+    "title": {"en": "Data & AI Operations Assistant", "hi": "डेटा और AI ऑपरेशंस असिस्टेंट"},
+    "summary": {"en": "Label data, check AI answers and handle digital back-office work for companies, often from home.", "hi": "कंपनियों के लिए डेटा लेबल करना, AI के जवाब जाँचना और डिजिटल बैक-ऑफ़िस काम करना, अक्सर घर से।"},
+    "riasec": {"C": 3, "I": 1},
+    "aptitude": {"VERB": 1, "LOGIC": 1},
+    "stages": ["AFTER_10", "AFTER_12"],
+    "cost": "LOW",
+    "aiProof": 45,
+    "salary": {"en": "Approx. ₹10,000–18,000/month to start.", "hi": "शुरुआत में लगभग ₹10,000–18,000 प्रति माह।"},
+    "roadmap": [
+      {"en": "Get comfortable with computers: typing, Excel/Sheets, internet.", "hi": "कंप्यूटर में सहज बनें: टाइपिंग, Excel/Sheets, इंटरनेट।"},
+      {"en": "Do a free or low-cost digital skills course (Skill India Digital, NIELIT CCC).", "hi": "मुफ़्त या सस्ता डिजिटल स्किल कोर्स करें (स्किल इंडिया डिजिटल, NIELIT CCC)।"},
+      {"en": "Join data annotation / BPO firms in Noida, Lucknow or Patna, or work remotely.", "hi": "नोएडा, लखनऊ या पटना की डेटा एनोटेशन / BPO कंपनियों से जुड़ें, या घर से काम करें।"},
+      {"en": "Within 1–2 years, upskill to data analyst or AI quality roles; entry tasks will get automated.", "hi": "1–2 साल में डेटा एनालिस्ट या AI क्वालिटी जैसे रोल के लिए स्किल बढ़ाएँ; शुरुआती काम ऑटोमेट हो जाएँगे।"}
+    ],
+    "exams": [
+      {"en": "NIELIT CCC (computer certificate)", "hi": "NIELIT CCC (कंप्यूटर सर्टिफ़िकेट)"}
+    ],
+    "skills": [
+      {"en": "Fast, accurate typing", "hi": "तेज़ और सही टाइपिंग"},
+      {"en": "Attention to detail", "hi": "बारीकी पर ध्यान"},
+      {"en": "Basic English and Excel", "hi": "बेसिक अंग्रेज़ी और Excel"}
+    ],
+    "aiNote": {"en": "Honest warning: AI will automate a lot of entry-level data work. Use it as a first step, not a final stop.", "hi": "ईमानदार चेतावनी: शुरुआती डेटा काम का बड़ा हिस्सा AI ऑटोमेट कर देगा। इसे पहली सीढ़ी मानें, आख़िरी मंज़िल नहीं।"}
+  },
+  {
+    "id": "govt_exams",
+    "title": {"en": "Government Jobs (SSC, Railways, Banks)", "hi": "सरकारी नौकरी (SSC, रेलवे, बैंक)"},
+    "summary": {"en": "Stable jobs through competitive exams. Preparation takes discipline but can be done from home.", "hi": "प्रतियोगी परीक्षाओं से स्थायी नौकरी। तैयारी में अनुशासन चाहिए, पर घर से हो सकती है।"},
+    "riasec": {"C": 3, "I": 1, "E": 1},
+    "aptitude": {"NUM": 2, "VERB": 1, "LOGIC": 1},
+    "stages": ["AFTER_10", "AFTER_12"],
+    "cost": "LOW",
+    "govt": true,
+    "needsRelocation": true,
+    "aiProof": 78,
+    "salary": {"en": "Approx. ₹25,000–45,000/month at entry including allowances, plus job security.", "hi": "शुरुआत में भत्तों सहित लगभग ₹25,000–45,000 प्रति माह, साथ में नौकरी की सुरक्षा।"},
+    "roadmap": [
+      {"en": "After 10th: you can try SSC GD, SSC MTS, or Railway Group D (with ITI).", "hi": "10वीं के बाद: SSC GD, SSC MTS या रेलवे ग्रुप D (ITI के साथ) दे सकते हैं।"},
+      {"en": "After 12th: SSC CHSL, RRB NTPC (12th level). After graduation: SSC CGL, bank PO/clerk.", "hi": "12वीं के बाद: SSC CHSL, RRB NTPC (12वीं स्तर)। ग्रेजुएशन के बाद: SSC CGL, बैंक PO/क्लर्क।"},
+      {"en": "Study maths, reasoning, English and GK daily; practise previous years' papers.", "hi": "रोज़ गणित, रीज़निंग, अंग्रेज़ी और GK पढ़ें; पिछले सालों के पेपर हल करें।"},
+      {"en": "Keep a backup skill or degree while you prepare.", "hi": "तैयारी के साथ एक बैकअप स्किल या डिग्री ज़रूर रखें।"}
+    ],
+    "exams": [
+      {"en": "SSC GD, SSC MTS, SSC CHSL, SSC CGL", "hi": "SSC GD, SSC MTS, SSC CHSL, SSC CGL"},
+      {"en": "RRB Group D, RRB NTPC, IBPS Clerk / PO", "hi": "RRB ग्रुप D, RRB NTPC, IBPS क्लर्क / PO"}
+    ],
+    "skills": [
+      {"en": "Speed maths", "hi": "तेज़ गणित"},
+      {"en": "Daily discipline", "hi": "रोज़ का अनुशासन"},
+      {"en": "Current affairs", "hi": "करंट अफ़ेयर्स"}
+    ],
+    "aiNote": {"en": "Government jobs change slowly and stay stable. Clerical work will become more digital, so computer skills help.", "hi": "सरकारी नौकरियाँ धीरे बदलती हैं और स्थिर रहती हैं। क्लर्क का काम ज़्यादा डिजिटल होगा, इसलिए कंप्यूटर स्किल काम आएगी।"}
+  },
+  {
+    "id": "defence_police",
+    "title": {"en": "Army, Police & Paramilitary", "hi": "सेना, पुलिस और अर्धसैनिक बल"},
+    "summary": {"en": "Serve the country through Agniveer, state police or CRPF/BSF. Needs fitness and discipline.", "hi": "अग्निवीर, राज्य पुलिस या CRPF/BSF से देश की सेवा। फ़िटनेस और अनुशासन चाहिए।"},
+    "riasec": {"R": 2, "S": 2, "E": 1},
+    "aptitude": {"LOGIC": 1, "NUM": 1},
+    "stages": ["AFTER_10", "AFTER_12"],
+    "cost": "LOW",
+    "govt": true,
+    "needsRelocation": true,
+    "aiProof": 90,
+    "salary": {"en": "Agniveer: ₹30,000/month package in year 1. Police constable: roughly ₹21,700 basic plus allowances.", "hi": "अग्निवीर: पहले साल ₹30,000 प्रति माह पैकेज। पुलिस कांस्टेबल: लगभग ₹21,700 बेसिक + भत्ते।"},
+    "roadmap": [
+      {"en": "Start running and exercising daily; physical tests decide a lot.", "hi": "रोज़ दौड़ और व्यायाम शुरू करें; शारीरिक परीक्षा बहुत कुछ तय करती है।"},
+      {"en": "After 10th: Agniveer General Duty (age 17.5–21). After 12th: Agniveer Technical/Clerk, state police constable.", "hi": "10वीं के बाद: अग्निवीर जनरल ड्यूटी (उम्र 17.5–21)। 12वीं के बाद: अग्निवीर टेक्निकल/क्लर्क, राज्य पुलिस कांस्टेबल।"},
+      {"en": "After 12th: the NDA exam to become an officer (PCM needed for Air Force/Navy).", "hi": "12वीं के बाद: अधिकारी बनने के लिए NDA परीक्षा (वायुसेना/नौसेना के लिए PCM ज़रूरी)।"},
+      {"en": "Prepare for the written exam: GK, maths, reasoning.", "hi": "लिखित परीक्षा की तैयारी करें: GK, गणित, रीज़निंग।"}
+    ],
+    "exams": [
+      {"en": "Indian Army Agniveer CEE, NDA", "hi": "भारतीय सेना अग्निवीर CEE, NDA"},
+      {"en": "UP Police Constable (UPPRPB), Bihar Police (CSBC), SSC GD", "hi": "UP पुलिस कांस्टेबल (UPPRPB), बिहार पुलिस (CSBC), SSC GD"}
+    ],
+    "skills": [
+      {"en": "Physical fitness", "hi": "शारीरिक फ़िटनेस"},
+      {"en": "Discipline and courage", "hi": "अनुशासन और साहस"},
+      {"en": "Teamwork", "hi": "टीमवर्क"}
+    ],
+    "aiNote": {"en": "Security work needs people on the ground. Tech-savvy soldiers and police will be valued even more.", "hi": "सुरक्षा के काम में ज़मीन पर इंसान चाहिए। तकनीक समझने वाले जवानों और पुलिसकर्मियों की क़द्र और बढ़ेगी।"}
+  },
+  {
+    "id": "accountant",
+    "title": {"en": "Accountant & GST Assistant", "hi": "अकाउंटेंट और GST असिस्टेंट"},
+    "summary": {"en": "Manage accounts, billing and GST filing for shops and small businesses.", "hi": "दुकानों और छोटे व्यापारों के हिसाब-किताब, बिलिंग और GST फ़ाइलिंग सँभालना।"},
+    "riasec": {"C": 3, "E": 1, "I": 1},
+    "aptitude": {"NUM": 2},
+    "stages": ["AFTER_10", "AFTER_12"],
+    "streams": ["COMMERCE"],
+    "cost": "LOW",
+    "aiProof": 50,
+    "salary": {"en": "Approx. ₹10,000–25,000/month; your own GST practice can earn more.", "hi": "लगभग ₹10,000–25,000 प्रति माह; अपनी GST प्रैक्टिस से ज़्यादा कमाई।"},
+    "roadmap": [
+      {"en": "Take Commerce in 11th–12th.", "hi": "11वीं–12वीं में कॉमर्स लें।"},
+      {"en": "Learn Tally and GST filing (3–6 month course) alongside B.Com.", "hi": "B.Com के साथ Tally और GST फ़ाइलिंग सीखें (3–6 महीने का कोर्स)।"},
+      {"en": "Work with a local CA or tax consultant for practice.", "hi": "प्रैक्टिस के लिए किसी लोकल CA या टैक्स सलाहकार के साथ काम करें।"},
+      {"en": "Aim higher if you enjoy it: CA, CMA or CS.", "hi": "अगर मन लगे तो आगे बढ़ें: CA, CMA या CS।"}
+    ],
+    "exams": [
+      {"en": "CUET-UG (B.Com at central universities)", "hi": "CUET-UG (केंद्रीय विश्वविद्यालयों में B.Com)"},
+      {"en": "CA Foundation (ICAI)", "hi": "CA फ़ाउंडेशन (ICAI)"}
+    ],
+    "skills": [
+      {"en": "Comfort with numbers", "hi": "संख्याओं में सहजता"},
+      {"en": "Tally, Excel, GST portal", "hi": "Tally, Excel, GST पोर्टल"},
+      {"en": "Trustworthiness", "hi": "भरोसेमंद होना"}
+    ],
+    "aiNote": {"en": "AI is automating routine bookkeeping. Those who advise businesses and understand tax rules will stay ahead.", "hi": "AI रोज़ का हिसाब-किताब ऑटोमेट कर रहा है। जो व्यापारियों को सलाह दे सकें और टैक्स नियम समझें, वही आगे रहेंगे।"}
+  },
+  {
+    "id": "agri_business",
+    "title": {"en": "Agri-business & Food Processing", "hi": "एग्री-बिज़नेस और फ़ूड प्रोसेसिंग"},
+    "summary": {"en": "Turn farm produce into products (pickles, flour, dairy, honey) or run a farm with modern methods.", "hi": "खेत की उपज से उत्पाद बनाना (अचार, आटा, डेयरी, शहद) या नए तरीक़ों से आधुनिक खेती करना।"},
+    "riasec": {"E": 2, "R": 2, "S": 1},
+    "aptitude": {"NUM": 1},
+    "stages": ["AFTER_10", "AFTER_12"],
+    "cost": "LOW",
+    "aiProof": 85,
+    "salary": {"en": "Depends on the business; ₹15,000–50,000+/month is possible once it runs.", "hi": "कमाई काम पर निर्भर; काम चल पड़ने पर ₹15,000–50,000+ प्रति माह संभव।"},
+    "roadmap": [
+      {"en": "Science (Biology/Agriculture) after 10th leads to B.Sc Agriculture; any stream can do short courses.", "hi": "10वीं के बाद साइंस (बायोलॉजी/एग्रीकल्चर) से B.Sc एग्रीकल्चर; किसी भी स्ट्रीम से छोटे कोर्स कर सकते हैं।"},
+      {"en": "Get free or low-cost training at your district Krishi Vigyan Kendra (KVK).", "hi": "अपने ज़िले के कृषि विज्ञान केंद्र (KVK) में मुफ़्त या सस्ती ट्रेनिंग लें।"},
+      {"en": "Start small: one product, sold locally and on WhatsApp.", "hi": "छोटे से शुरू करें: एक उत्पाद, लोकल और WhatsApp पर बेचें।"},
+      {"en": "Use schemes like PMFME for loans and subsidy, and get FSSAI registration.", "hi": "लोन और सब्सिडी के लिए PMFME जैसी योजनाओं का लाभ लें, और FSSAI रजिस्ट्रेशन कराएँ।"}
+    ],
+    "exams": [
+      {"en": "CUET-UG (ICAR seats), state agriculture entrances", "hi": "CUET-UG (ICAR सीटें), राज्य कृषि प्रवेश परीक्षाएँ"}
+    ],
+    "skills": [
+      {"en": "Business sense", "hi": "व्यापार की समझ"},
+      {"en": "Quality and hygiene", "hi": "गुणवत्ता और साफ़-सफ़ाई"},
+      {"en": "Selling and networking", "hi": "बेचना और लोगों से जुड़ना"}
+    ],
+    "aiNote": {"en": "Food and farming will always be needed. AI helps with weather, prices and crop advice, making smart farmers stronger.", "hi": "खाना और खेती हमेशा ज़रूरी रहेंगे। AI मौसम, भाव और फ़सल सलाह में मदद करता है, जिससे समझदार किसान और मज़बूत होंगे।"}
+  },
+  {
+    "id": "designer",
+    "title": {"en": "Graphic & UI Designer", "hi": "ग्राफ़िक और UI डिज़ाइनर"},
+    "summary": {"en": "Design posters, logos, app screens and social media graphics.", "hi": "पोस्टर, लोगो, ऐप स्क्रीन और सोशल मीडिया ग्राफ़िक्स डिज़ाइन करना।"},
+    "riasec": {"A": 3, "I": 1, "E": 1},
+    "stages": ["AFTER_10", "AFTER_12"],
+    "cost": "LOW",
+    "aiProof": 55,
+    "salary": {"en": "Approx. ₹12,000–30,000/month to start; freelancing is possible.", "hi": "शुरुआत में लगभग ₹12,000–30,000 प्रति माह; फ़्रीलांसिंग भी संभव।"},
+    "roadmap": [
+      {"en": "Start with free tools like Canva and Figma on a phone or computer.", "hi": "फ़ोन या कंप्यूटर पर Canva और Figma जैसे मुफ़्त टूल्स से शुरुआत करें।"},
+      {"en": "Learn design basics: colour, fonts, layout (free YouTube courses).", "hi": "डिज़ाइन की बुनियादी बातें सीखें: रंग, फ़ॉन्ट, लेआउट (मुफ़्त YouTube कोर्स)।"},
+      {"en": "Optional: a design degree through NID, NIFT or UCEED after 12th.", "hi": "चाहें तो 12वीं के बाद NID, NIFT या UCEED से डिज़ाइन की डिग्री।"},
+      {"en": "Build an online portfolio and take small paid projects.", "hi": "ऑनलाइन पोर्टफ़ोलियो बनाएँ और छोटे पेड प्रोजेक्ट लें।"}
+    ],
+    "exams": [
+      {"en": "NID DAT, NIFT, UCEED (optional, for a degree)", "hi": "NID DAT, NIFT, UCEED (डिग्री के लिए, ज़रूरी नहीं)"}
+    ],
+    "skills": [
+      {"en": "Visual sense", "hi": "देखने की समझ (विज़ुअल सेंस)"},
+      {"en": "Canva, Figma, AI image tools", "hi": "Canva, Figma, AI इमेज टूल्स"},
+      {"en": "Taking feedback", "hi": "सुझाव स्वीकार करना"}
+    ],
+    "aiNote": {"en": "AI can make images in seconds. Designers who solve real problems for clients, not just make pretty pictures, will stay in demand.", "hi": "AI पल भर में तस्वीरें बना देता है। जो डिज़ाइनर सिर्फ़ सुंदर तस्वीरें नहीं, बल्कि क्लाइंट की असली समस्या हल करें, उनकी माँग बनी रहेगी।"}
+  }
+]
